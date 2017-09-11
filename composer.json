@@ -1,8 +1,8 @@
 {
-    "name": "albertshen/wechat-payment",
+    "name": "albertshen/wechat",
     "type": "library",
-    "description": "Logging for PHP 5.3",
-    "keywords": ["log","logging"],
+    "description": "Logging for PHP 7.0",
+    "keywords": ["wechat","payment"],
     "homepage": "https://github.com/albertshen/wechat-payment.git",
     "license": "MIT",
     "authors": [
@@ -15,5 +15,10 @@
     ],
     "require": {
         "php": "^5.3.3 || ^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wechat": "src"
+        }
     }
 }
