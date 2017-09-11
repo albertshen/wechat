@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": "^5.3.3 || ^7.0",
-        "albertshen/wechat": "^1.1"
+        "albertshen/wechat": "^1.2"
     },
     "autoload": {
         "psr-4": {
