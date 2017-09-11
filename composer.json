@@ -1,7 +1,7 @@
 {
     "name": "albertshen/wechat",
     "type": "library",
-    "description": "Logging for PHP 7.0",
+    "description": "Wechat SDK for PHP 7.0",
     "keywords": ["wechat","payment"],
     "homepage": "https://github.com/albertshen/wechat-payment.git",
     "license": "MIT",
